@@ -13,6 +13,8 @@ Codamie is a platform designed to connect programmers with potential partners ba
 
 ## Introduction
 
+![Codamie Preview](CODAMINE_2.png)
+
 Codamie aims to bridge the gap between programmers seeking collaborators and those offering their skills. By creating a profile and specifying your preferred programming languages, frameworks, and technologies, you can discover potential partners who share your interests and expertise.
 
 ## Features

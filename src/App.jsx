@@ -1,13 +1,14 @@
-import Welcome from "./components/Welcome"
+import Login from "./components/Login";
+import Signup from "./components/Signup";
 
 function App() {
-
   return (
-    <>
-    <Welcome />
-    </>
-    
-  )
+    <div className="App">
+      <h1>Welcome to Codamie</h1>
+      <Signup />
+      <Login />
+    </div>
+  );
 }
 
-export default App
+export default App;

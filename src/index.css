@@ -1,7 +1,19 @@
-body{
+body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-  background-color: #f5f5f5;
-  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  
 }
